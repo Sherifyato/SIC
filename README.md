@@ -1,2 +1,1 @@
-# SIC
-From SIC git
+change in readme 
